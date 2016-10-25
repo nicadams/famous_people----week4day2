@@ -1,0 +1,24 @@
+{
+  "name": "week4day2_navy2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
+  "dependencies": {
+    "pg": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicadams/navy2----week4day2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicadams/navy2----week4day2/issues"
+  },
+  "homepage": "https://github.com/nicadams/navy2----week4day2#readme"
+}
